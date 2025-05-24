@@ -5,14 +5,7 @@
 # and this is a test of the image
 ![test image](https://i.gifer.com/4j.gif)
 
-### and this is a test of the code block
-```python
-def hello_world():
-    print("Hello, world!")
-hello_world()
-# and this is a test of the link
-[OpenAI](https://www.openai.com)
-```
+
 ### and this is a test of the table
 | Header 1 | Header 2 | Header 3 |
 |-----------|-----------|-----------|
@@ -23,5 +16,3 @@ hello_world()
 - [ ] Task 2
 - [ ] Task 3
 - [ ] Task 4
-### and this is a test of the blockquote
-> This is a blockquote.
